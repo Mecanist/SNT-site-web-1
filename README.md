@@ -1,2 +1,3 @@
 # SNT-site-web-1
-Activité 1 Web (HTML CSS)
+FE Mecanist v. 2022
+Production de l'activité 1 web en SNT (HTML CSS)
